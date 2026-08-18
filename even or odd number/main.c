@@ -9,13 +9,13 @@ int main()
     if( remainder==0)
 
 
-    {printf("The number is even\n");
+    {printf("The number is even:%d\n",n);
 
     }else{
 
 
 
-     printf("The number is odd\n");
+     printf("The number is odd:%d\n",n);
     }
 
     return 0;
