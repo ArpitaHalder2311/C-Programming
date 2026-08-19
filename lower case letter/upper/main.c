@@ -7,7 +7,7 @@ int main()
 
   if(ch >= 'a' && ch <= 'z') {
 
-    printf("%c is lower case\n", ch);
+    printf("%c is lower case\n ", ch);
 }
   if(ch >= 'A' && ch <= 'Z') {
 
